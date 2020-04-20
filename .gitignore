@@ -1,7 +1,9 @@
 
-# Created by https://www.gitignore.io/api/node,prepros,windows
-# Edit at https://www.gitignore.io/?templates=node,prepros,windows
+# Created by https://www.gitignore.io/api/node,docz,prepros,windows
+# Edit at https://www.gitignore.io/?templates=node,docz,prepros,windows
 
+### Docz ###
+.docz
 ### Node ###
 # Logs
 logs
@@ -139,4 +141,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/node,prepros,windows
+# End of https://www.gitignore.io/api/node,docz,prepros,windows
